@@ -1,0 +1,39 @@
+    h1 {
+         color: #ff9595;
+         font-family:cursive;
+         font-style: italic;
+       }
+       body{
+        width: 100%;
+        height:40vh;
+        color: rgb(17, 0, 255);
+        font-style: oblique;
+        margin-top: 10;
+        margin-bottom: 10;
+        left: 100;
+        background-image: url("bk.jpg");
+         
+       }
+
+       header{
+         background-color:red;
+       }
+
+     h3{
+         color: #db9909;
+         font-style: oblique;
+         background-image: url("bg.jpg");
+     }
+     p{
+         color: #51ff00;
+         font-style: italic;
+     }
+     li{
+       color: #ffd093;
+       font-style: italic;
+     }
+     i{
+       color: #9dff00;
+       font-style: initial;
+    }
+     
